@@ -17,4 +17,4 @@ Feel free to browse through my uploaded files if you want more details on what I
 
 Thank you!
 
-![Employee data](/28-Pins-PCB/!Released Files/PCB top.png?raw=true "Employee Data title")
+![Employee data](/28-Pins-PCB/!ReleasedFiles/PCBtop.png?raw=true "Employee Data title")
