@@ -17,4 +17,5 @@ Feel free to browse through my uploaded files if you want more details on what I
 
 Thank you!
 
-![alt text](https://github.com/Atif-24/28-Pins-PCB/blob/main/!Released%20Files/PCB%20top.png)
+![Top of PCB Board](https://github.com/Atif-24/28-Pins-PCB/blob/main/!Released%20Files/PCB%20top.png)
+![Bottom of PCB Board]([https://github.com/Atif-24/28-Pins-PCB/blob/main/!Released%20Files/PCB%20top.png](https://github.com/Atif-24/28-Pins-PCB/blob/main/!Released%20Files/PCB%20bottom.png))
