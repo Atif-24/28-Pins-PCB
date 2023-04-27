@@ -2,7 +2,7 @@
 
 During my Spring 2023 Semester, I began my first personal project by enrolling in a Udemy course, "Learn to Design Your Boards," by Robert Feranec.
 
-I did this to gain insight into some of the tools used in the Electrical Engineering industry. This project specifically taught me the Basics of Altium Designer, the most common software used for PCB (Printed-Circuit-Board) Design jobs.
+I did this to gain insight into some of the tools used in the Electrical Engineering industry. This project specifically taught me the basics of Altium Designer, the most common software used for PCB (Printed-Circuit-Board) Design jobs.
 
 The course was step-by-step, from creating parts and wiring schematics to creating 3-D and 2-D footprints, placing all the parts on the PCB, and wiring all components.
 
