@@ -2,7 +2,7 @@
 
 During the Spring 2023 Semester, I embarked on an engaging personal project aimed at expanding my knowledge and skills in the field of Electrical Engineering. To accomplish this, I enrolled in the Udemy course "Learn to Design Your Boards," taught by Robert Feranec.
 
-The primary objective of this project was to gain hands-on experience with the tools commonly employed in the industry. Through the course, I focused specifically on mastering Altium Designer, a widely used software for PCB (Printed Circuit Board) design.
+The primary objective of this project was to gain hands-on experience with the tools commonly employed in the industry. Through the course, I focused specifically on learning Altium Designer, a widely used software for PCB (Printed Circuit Board) design.
 
 The course took me through a comprehensive step-by-step journey, starting from the creation of parts and wiring schematics, to the development of 3D and 2D footprints, and finally, the placement and wiring of all components on the PCB.
 
